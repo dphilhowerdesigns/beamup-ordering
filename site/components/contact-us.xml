@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/contact</content-type>	<display-template>/templates/web/components/contact.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>50fb</objectGroupId>
+	<objectId>50fb6f11-9240-4c12-c922-e05db12175d2</objectId>
+	<file-name>contact-us.xml</file-name>
+	<folder-name/>
+	<internal-name>Contact Us</internal-name>
+	<title>Contact Us</title>
+	<createdDate>9/6/2017 16:36:30</createdDate>
+	<createdDate_dt>9/6/2017 16:36:30</createdDate_dt>
+	<lastModifiedDate>9/11/2017 21:21:46</lastModifiedDate>
+	<lastModifiedDate_dt>9/11/2017 21:21:46</lastModifiedDate_dt>
+	<nameLabel>Name</nameLabel>
+	<emailLabel>Email</emailLabel>
+	<messageLabel>Message</messageLabel>
+	<buttonLabel>send</buttonLabel>
+	<openDays>	<item>	<openDay>Sunday</openDay>
+	<openAt>09/11/2017 10:30:00</openAt>
+	<closedAt>09/11/2017 22:00:00</closedAt>
+	<openAt_tz>CST5CST</openAt_tz>
+	<closedAt_tz>CST5CST</closedAt_tz>
+	</item>	<item>	<openDay>Mon - Fri</openDay>
+	<openAt>09/11/2017 09:00:00</openAt>
+	<closedAt>09/11/2017 20:00:00</closedAt>
+	<openAt_tz>CST5CST</openAt_tz>
+	<closedAt_tz>CST5CST</closedAt_tz>
+	</item>	<item>	<openDay>Saturday</openDay>
+	<openAt>09/11/2017 11:30:00</openAt>
+	<closedAt>09/11/2017 22:30:00</closedAt>
+	<openAt_tz>CST5CST</openAt_tz>
+	<closedAt_tz>CST5CST</closedAt_tz>
+	</item></openDays>
+	<contactSocialLinks>	<item>	<socialLinkType>facebook</socialLinkType>
+	</item>	<item>	<socialLinkType>twitter</socialLinkType>
+	</item>	<item>	<socialLinkType>behance</socialLinkType>
+	</item>	<item>	<socialLinkType>dribbble</socialLinkType>
+	</item>	<item>	<socialLinkType>github</socialLinkType>
+	</item></contactSocialLinks>
+	<contactInfoLabel>Contact Info.</contactInfoLabel>
+	<openHoursLabel>Open Hours</openHoursLabel>
+	<socialLinksTitle>Follow Us</socialLinksTitle>
+	<postURL>/email-controller</postURL>
+	<phoneLabel>Phone</phoneLabel>
+	<phoneNumber>090-080-0760</phoneNumber>
+	<locationLabel>Our Location</locationLabel>
+	<location>120 Duis aute irure, California, USA</location>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f66a</objectGroupId>
+	<objectId>f66a18e7-27bd-d206-6c74-01e79a7071de</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<createdDate>9/7/2017 20:10:19</createdDate>
+	<createdDate_dt>9/7/2017 20:10:19</createdDate_dt>
+	<lastModifiedDate>9/11/2017 18:31:11</lastModifiedDate>
+	<lastModifiedDate_dt>9/11/2017 18:31:11</lastModifiedDate_dt>
+	<siteName>Zentro Inc.</siteName>
+	<siteURL>/</siteURL>
+	<menuBar>	<item>	<key>/site/components/navigation-bar.xml</key>
+	<value>Navigation Bar</value>
+	<include>/site/components/navigation-bar.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></menuBar>
+	<footer>	<item>	<key>/site/components/footer.xml</key>
+	<value>Footer</value>
+	<include>/site/components/footer.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer>
+</component>

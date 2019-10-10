@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>	<display-template>/templates/web/components/footer.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>917a</objectGroupId>
+	<objectId>917a54e4-9ec3-09c9-4ea2-2af62bbf588a</objectId>
+	<file-name>footer.xml</file-name>
+	<folder-name/>
+	<internal-name>Footer</internal-name>
+	<copyright>Copyright © Zentro Restaurant and Cafe</copyright>
+	<createdDate>9/6/2017 15:1:50</createdDate>
+	<createdDate_dt>9/6/2017 15:1:50</createdDate_dt>
+	<lastModifiedDate>9/12/2017 15:26:7</lastModifiedDate>
+	<lastModifiedDate_dt>9/12/2017 15:26:7</lastModifiedDate_dt>
+	<creditsLabel>Design by:</creditsLabel>
+	<linkLabel>Tooplate</linkLabel>
+	<linkURL>http://www.tooplate.com</linkURL>
+	<showCredits>true</showCredits>
+	<footerTitle>Zentro Inc.</footerTitle>
+</component>

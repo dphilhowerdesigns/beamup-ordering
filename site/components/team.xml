@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/team</content-type>	<display-template>/templates/web/components/team.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f00a</objectGroupId>
+	<objectId>f00afdd0-bf97-55b7-5b9b-2f5287b1ae4a</objectId>
+	<teamMembers>	<item>	<employeeName>Thanya</employeeName>
+	<jobTitle>Main Chef</jobTitle>
+	<employeePhoto>/static-assets/images/team1.jpg</employeePhoto>
+	</item>	<item>	<employeeName>Lynda</employeeName>
+	<jobTitle>Pizza Specialist</jobTitle>
+	<employeePhoto>/static-assets/images/team2.jpg</employeePhoto>
+	</item>	<item>	<employeeName>Jenny Ko</employeeName>
+	<jobTitle>New Baker</jobTitle>
+	<employeePhoto>/static-assets/images/team3.jpg</employeePhoto>
+	</item></teamMembers>
+	<internal-name>Team</internal-name>
+	<title>Meet Zentro chefs</title>
+	<file-name>team.xml</file-name>
+	<folder-name/>
+	<createdDate>9/5/2017 22:20:51</createdDate>
+	<createdDate_dt>9/5/2017 22:20:51</createdDate_dt>
+	<lastModifiedDate>9/11/2017 21:7:36</lastModifiedDate>
+	<lastModifiedDate_dt>9/11/2017 21:7:36</lastModifiedDate_dt>
+</component>

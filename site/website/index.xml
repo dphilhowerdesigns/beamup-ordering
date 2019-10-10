@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>1/31/2017 16:18:14</createdDate>
+	<createdDate_dt>1/31/2017 16:18:14</createdDate_dt>
+	<lastModifiedDate>9/12/2017 15:25:42</lastModifiedDate>
+	<lastModifiedDate_dt>9/12/2017 15:25:42</lastModifiedDate_dt>
+	<title>Zentro Restaurant</title>
+	<slogan>The Best Food</slogan>
+	<buttonLabel>See More</buttonLabel>
+	<disabled>false</disabled>
+	<dishGallery>	<item>	<key>/site/components/dish-gallery.xml</key>
+	<value>Food Gallery</value>
+	<include>/site/components/dish-gallery.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></dishGallery>
+	<foodMenu>	<item>	<key>/site/components/food-menu.xml</key>
+	<value>Food Menu</value>
+	<include>/site/components/food-menu.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></foodMenu>
+	<teamMembers>	<item>	<key>/site/components/team.xml</key>
+	<value>Team</value>
+	<include>/site/components/team.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></teamMembers>
+	<contactUs>	<item>	<key>/site/components/contact-us.xml</key>
+	<value>Contact Us</value>
+	<include>/site/components/contact-us.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contactUs>
+	<homepageImage>/static-assets/images/home-bg.jpg</homepageImage>
+	<menuBar>	<item>	<key>/site/components/navigation-bar.xml</key>
+	<value>Navigation Bar</value>
+	<include>/site/components/navigation-bar.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></menuBar>
+	<footer>	<item>	<key>/site/components/footer.xml</key>
+	<value>Footer</value>
+	<include>/site/components/footer.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer>
+	<topSiteName>Zentro Inc.</topSiteName>
+</page>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/dish-gallery</content-type>	<display-template>/templates/web/components/dish-gallery.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1cf9</objectGroupId>
+	<objectId>1cf969b6-8e81-7d4e-77d6-0f06e19a3f49</objectId>
+	<dishList>	<item>	<dishComponent>		<item><key>/site/components/dish.xml</key>
+<value>Dish</value>
+<include>/site/components/dish.xml</include>
+<disableFlattening>false</disableFlattening>
+		</item></dishComponent>
+	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
+	<dishImage>/static-assets/images/gallery-img2.jpg</dishImage>
+	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
+	<dishImage>/static-assets/images/gallery-img1.jpg</dishImage>
+	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
+	<dishImage>/static-assets/images/gallery-img3.jpg</dishImage>
+	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
+	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
+	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishIngredients>Seafood / Shrimp / Lemon</dishIngredients>
+	<dishImage>/static-assets/images/gallery-img4.jpg</dishImage>
+	</item></dishList>
+	<internal-name>Food Gallery</internal-name>
+	<title>Food Gallery</title>
+	<file-name>dish-gallery.xml</file-name>
+	<folder-name/>
+	<createdDate>9/5/2017 15:32:34</createdDate>
+	<createdDate_dt>9/5/2017 15:32:34</createdDate_dt>
+	<lastModifiedDate>9/12/2017 14:59:2</lastModifiedDate>
+	<lastModifiedDate_dt>9/12/2017 14:59:2</lastModifiedDate_dt>
+</component>

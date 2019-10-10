@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/menu</content-type>	<display-template>/templates/web/components/menu.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fe1a</objectGroupId>
+	<objectId>fe1afa19-8c65-0938-142f-8eaa12f514dd</objectId>
+	<internal-name>Food Menu</internal-name>
+	<title>Menu</title>
+	<file-name>food-menu.xml</file-name>
+	<folder-name/>
+	<createdDate>9/5/2017 17:39:46</createdDate>
+	<createdDate_dt>9/5/2017 17:39:46</createdDate_dt>
+	<lastModifiedDate>9/11/2017 22:52:28</lastModifiedDate>
+	<lastModifiedDate_dt>9/11/2017 22:52:28</lastModifiedDate_dt>
+	<menuList>	<item>	<dishName>Lemon-Rosemary Vegetable</dishName>
+	<dishPrice>2000.50</dishPrice>
+	<dishIngredients>Chicken / Rosemary / Lemon</dishIngredients>
+	<currency>$</currency>
+	</item>	<item>	<dishName>Lemon-Rosemary Meat</dishName>
+	<dishPrice>3000.50</dishPrice>
+	<dishIngredients>Meat / Rosemary / Lemon</dishIngredients>
+	<currency>₡</currency>
+	</item>	<item>	<dishName>Lemon-Rosemary Pork </dishName>
+	<dishPrice>4000.75</dishPrice>
+	<dishIngredients>Pork / Tooplate / Lemon</dishIngredients>
+	<currency>£</currency>
+	</item>	<item>	<dishName>Orange-Rosemary Salad</dishName>
+	<dishPrice>5500.00</dishPrice>
+	<dishIngredients>Salad / Rosemary / Orange</dishIngredients>
+	<currency>€</currency>
+	</item>	<item>	<dishName>Lemon-Rosemary Squid</dishName>
+	<dishPrice>6500.00</dishPrice>
+	<dishIngredients>Squid / Rosemary / Lemon</dishIngredients>
+	<currency>₡</currency>
+	</item>	<item>	<dishName>Orange-Rosemary Shrimp</dishName>
+	<dishPrice>7000.50</dishPrice>
+	<dishIngredients>Shrimp / Rosemary / Orange</dishIngredients>
+	<currency>₡</currency>
+	</item>	<item>	<dishName>Lemon-Rosemary Prawn</dishName>
+	<dishPrice>11000.75</dishPrice>
+	<dishIngredients>Chicken / Rosemary / Lemon</dishIngredients>
+	<currency>£</currency>
+	</item>	<item>	<dishName>Lemon-Rosemary Seafood</dishName>
+	<dishPrice>2000.99</dishPrice>
+	<dishIngredients>Seafood / Rosemary / Lemon</dishIngredients>
+	<currency>€</currency>
+	</item></menuList>
+	<dishPriceCurrency>₡</dishPriceCurrency>
+</component>
